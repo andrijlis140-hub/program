@@ -1,2 +1,22 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+age = 10
+bag = 5
+size = (1, 1)
+name = 'Mike'
+firstname = 'servant'
+values = (10, 12)
+time = 12
+time_line = (1, 12)
+title = 'genius'
+segment = 21
+
+print()
+print(type(age))
+print(type(bag ))
+print(type(size))
+print(type(name))
+print(type(firstname)
+print(type(values))
+print(type(time))
+print(type(time_line))
+print(type(title ))
+print(type(segment))
