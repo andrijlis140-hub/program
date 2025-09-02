@@ -1,13 +1,13 @@
-age = 10
-bag = 5
-size = (1, 1)
-name = 'Mike'
-firstname = 'servant'
-values = (10, 12)
-time = 12
-time_line = (1, 12)
-title = 'genius'
-segment = 21
+age=10
+bag=5
+size=(1, 1)
+name='Mike'
+firstname='servant'
+values=(10, 12)
+time=12
+time_line=(1, 12)
+title='genius'
+segment=21
 
 print()
 print(type(age))
