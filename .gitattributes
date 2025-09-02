@@ -1,22 +1,32 @@
 age=10
-bag=5
-size=(1, 1)
+bag=5.1
 name='Mike'
-firstname='servant'
-values=(10, 12)
+size=[1,2,3,4]
+firstname=(True)
+values={10, 12}
 time=12
 time_line=(1, 12)
-title='genius'
+title={'1':'Mifril'}
 segment=21
 
-print()
+
 print(type(age))
 print(type(bag))
 print(type(size))
 print(type(name))
-print(type(firstname)
+print(type(firstname))
 print(type(values))
 print(type(time))
 print(type(time_line))
 print(type(title))
 print(type(segment))
+print(age)
+print(bag)
+print(size)
+print(name)
+print(firstname)
+print(values)
+print(time)
+print(time_line)
+print(title)
+print(segment)
